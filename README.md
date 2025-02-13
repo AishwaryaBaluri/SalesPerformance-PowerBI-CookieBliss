@@ -1,4 +1,3 @@
-#  📊 Cookie-bliss-sales-dashboard
 <img src="https://raw.githubusercontent.com/AishwaryaBaluri/Cookie-bliss-sales-dashboard/main/dashboard%20SS.png" alt="Dashboard Preview" width="800"/>
 
 
