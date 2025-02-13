@@ -1,4 +1,6 @@
-# Cookie-bliss-sales-dashboard
+#  📊 Cookie-bliss-sales-dashboard
+<img src="https://raw.githubusercontent.com/AishwaryaBaluri/Cookie-bliss-sales-dashboard/main/dashboard%20SS.png" alt="Dashboard Preview" width="800"/>
+
 
 The **Cookie Bliss Sales Performance Dashboard** is an interactive **Power BI dashboard** designed to analyze **sales trends, revenue, profit margins, and customer shipments**. This project enables **data-driven decision-making** by providing key insights into **total revenue, profitability, sales trends, and regional performance**.  
 
@@ -6,7 +8,7 @@ This dashboard is built using **Power BI**, with **DAX calculations** to track K
 
 ---
 
-## Key Features & Insights  
+## Key Features & Insights 🚀
 - **Total Revenue Analysis** – Displays **$6.42M total revenue** with goal benchmarking.  
 - **Profitability Metrics** – Highlights **50% profit margin** and **$5 revenue per cookie**.  
 - **Sales & Shipment Trends** – Tracks **cookies shipped over time and customer-wise distribution**.  
