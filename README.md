@@ -57,7 +57,7 @@ By leveraging this **Power BI dashboard**, businesses can gain **a competitive a
 ---
 
 ## Project Repository & Files  
-- **[`CookieBliss_Sales_Dashboard.pbix`](Insert File Link Here)** – Power BI project file containing data models and visualizations.  
+- **[`CookieBliss_Sales_Dashboard.pbix`](https://github.com/AishwaryaBaluri/SalesPerformance-PowerBI-CookieBliss/blob/f4218a24d1b0011a73cb6d3f9a2b733cdf975d31/Cookies%20Sales%20Analysis%20Report.pbix)** – Power BI project file containing data models and visualizations.  
 - **Screenshots & Visuals** – Contains preview images showcasing dashboard insights.  
 - **README.md** – Complete project documentation, including features, impact, and usage instructions.   
 
